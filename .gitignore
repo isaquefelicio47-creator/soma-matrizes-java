@@ -1,0 +1,57 @@
+=========================
+Java
+=========================
+Arquivos compilados
+*.class
+
+Logs
+*.log
+
+Arquivos temporários
+*.tmp
+.temp
+
+Build folders
+bin/
+build/
+out/
+target/
+
+=========================
+VSCode
+=========================
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+Histórico do VSCode
+.history/
+
+=========================
+Sistema Linux
+=========================
+~
+
+=========================
+Dependências/Libraries
+=========================
+Caso use jars locais temporários
+lib/.jar
+
+=========================
+IntelliJ/Eclipse (caso abra)
+=========================
+.idea/
+*.iml
+
+.project
+.classpath
+.settings/
+
+=========================
+Arquivos do sistema
+=========================
+.DS_Store
+Thumbs.db
